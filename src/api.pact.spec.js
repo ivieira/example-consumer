@@ -19,7 +19,7 @@ describe('API Pact test', () => {
       const expectedProduct = {
         id: '10',
         type: 'CREDIT_CARD',
-        name: '28 Degrees'
+        namex: '28 Degrees'
       };
 
       // Uncomment to see this fail
